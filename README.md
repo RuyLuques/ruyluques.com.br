@@ -5,4 +5,4 @@
 <li>HTML</li>
 <li>CSS</li>
 <li>JS</li>
-<a href="https://portfolio-wine-eight-53.vercel.app/">Clique aqui</a>
+<a href="http://ruyluques.com.br/">Clique aqui</a>
